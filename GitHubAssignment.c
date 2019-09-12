@@ -7,7 +7,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Caleb Koranda\n");
+    printf("Caleb Koranda and Anders Long\n");
     
     return 0;
 }
